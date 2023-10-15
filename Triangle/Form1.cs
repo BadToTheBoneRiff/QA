@@ -23,17 +23,17 @@ namespace Triangle
 
             if(int.TryParse(aSide.Text, out a) && (int.TryParse(bSide.Text, out b) && (int.TryParse(cSide.Text, out c))))
             {
-                if(a == b && b == c) 
+                if ((a + b <= c) || (b + c) <= a || (a + c <= b))
                 {
-                    answer.Text = "Равносторонний";
+                    answer.Text = "Треугольника не существует";
                 }
                 else if (a == b || b == c || a == c)
                 {
                     answer.Text = "Равнобедренный";
                 }
-                else if (a + b <= c || b + c <= a || a + c <= b)
+                else if (a == b && b == c)
                 {
-                    answer.Text = "Треугольника не существует";
+                    answer.Text = "Равносторонний";
                 }
                 else
                 {
