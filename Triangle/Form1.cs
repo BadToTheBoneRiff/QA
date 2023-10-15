@@ -31,6 +31,10 @@ namespace Triangle
                 {
                     answer.Text = "Равнобедренный";
                 }
+                else if (a + b <= c || b + c <= a || a + c <= b)
+                {
+                    answer.Text = "Треугольника не существует";
+                }
                 else
                 {
                     answer.Text = "Разносторонний";

@@ -8,3 +8,14 @@ C:\Users\stud\Desktop\Triangle\bin\Debug\Triangle.exe
 C:\Users\stud\Desktop\Triangle\bin\Debug\Triangle.pdb
 C:\Users\stud\Desktop\Triangle\obj\Debug\Triangle.exe
 C:\Users\stud\Desktop\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Taboo\Desktop\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Taboo\Desktop\Triangle\bin\Debug\Triangle.exe
+C:\Users\Taboo\Desktop\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.Form1.resources
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.exe
+C:\Users\Taboo\Desktop\Triangle\obj\Debug\Triangle.pdb
